@@ -1,3 +1,15 @@
-.custom-font-size {
-    font-size: 24px;
+.description {
+    color: aqua;
+}
+
+.article {
+    color: gray;
+}
+
+.job {
+    color: gray;
+}
+
+.article-footer {
+    color: blue;
 }
